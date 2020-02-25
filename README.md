@@ -31,8 +31,6 @@ Iterations: 8
 | Weight 2 |  0.3283859732227335|
 | Weight 3 | -0.3472655096777087|
 
-Rosenbaltt Perceptron
-
 Result Table AND
 
 | Input 1 | Input 2 | Value
